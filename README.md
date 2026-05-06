@@ -45,3 +45,9 @@ Para ejecutar las pruebas y generar el reporte técnico, utilice el siguiente co
 py -m pytest Tests/ -v --html=Reports/reporte_final.html
 
 
+
+## 6. Evidencias
+
+Los resultados de la última ejecución muestran un **100% de éxito (4/4 tests passed)**. 
+
+Puede encontrar el reporte detallado en `Reports/reporte_final.html` y las capturas de pantalla en `Reports/capturasPantalla/`.
